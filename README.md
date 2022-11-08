@@ -2,6 +2,8 @@ This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Ne
 
 ## Getting Started
 
+Don't forget to edit the .env file and add it to the gitignore
+
 First, run the development server:
 
 ```bash
